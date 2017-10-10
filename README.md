@@ -1,4 +1,4 @@
 # max-coll
-Example of using collections in Max.
+Example of using the [coll] object for data storage.
 
-Specifically, this demonstrates how we can store more than one data point per index. 
+2017.10.10 Previous minimal example removed. Now quite comprehensive.
